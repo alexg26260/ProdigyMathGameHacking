@@ -1,3 +1,2 @@
-(async() => {
-	eval(await (await fetch("https://raw.githubusercontent.com/PatheticMustan/ProdigyMathGameHacking/HEAD/willsCheatMenu/dist/bundle.js")).text())
-})()
+(set) level 100
+player leah gold helper
