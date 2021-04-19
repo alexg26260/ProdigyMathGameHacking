@@ -15,3 +15,4 @@ _.constants.constants["GameConstants." + "ReplaceWithBossName" + ".DIFFICULTY"] 
 // ShadowGerald
 // StormyStorm
 // Cebollini
+// OldOne
